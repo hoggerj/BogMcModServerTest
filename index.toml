@@ -51,6 +51,11 @@ hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "69dd03aa24b8172ed8644a73dd477521afd7ca6841b77320f0d13534968aad3a"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "2556e3b026a3cd00bad5d7da0894d1d2e8dbb5afeabb877367bd489659ec80c9"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
 
 [[files]]
