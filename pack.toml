@@ -1,0 +1,13 @@
+name = "Big Mods Test"
+author = "Hogger"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f07f9fc476313d7bd9fb83db014f57ff85614905e903aa1f8c2fff244062a337"
+
+[versions]
+forge = "47.3.0"
+minecraft = "1.20.1"
